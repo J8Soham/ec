@@ -1,1 +1,7 @@
-# ec
+# Extra Credit Asisnnment for EC-13
+
+One of the biggest pain point of this class is the fact that we have to really keep on re-adjusting the code that we write to make it work, one of the biggest pain points is how we really the need to actually create code that is well intergrated and can use the things that we learn to actually create the project that we need to create. This was due to a lack of understanding led to frustration and confusion, causing me to fall behind in the course. I would spend hours trying to debug my code, never to actually target the core of the issue that I was facing. 
+
+However there is one thing that really helped me out trying to discuss with students about what the underlying idea on what the things we are interacting with actually are doing, this helped because it allowed me to actually understand the code partially because talking helped me say it in a way that they understood. This has a really good impact on the class as it allowed me to take my understanding to another level. What we or you as an incoming student can so is to actually talk to people in the class especially the TA's as they are really helpul in getting you to debug your code and help you understand how it all works together. Don't try to just go to their ending of the section when a lab is due as a lot of people will do so causing you to have less time to actually understand and complete the code. 
+
+![](image.png)
